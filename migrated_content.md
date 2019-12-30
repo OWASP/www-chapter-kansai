@@ -12,7 +12,7 @@ region: Asia/Pacific
 ![OwaspKansai_Blue.jpg](OwaspKansai_Blue.jpg "OwaspKansai_Blue.jpg")
 __NOTOC__
 
-### **[OWASP Top 10 2017 日本語版PDF ダウンロード](https://www.owasp.org/images/2/23/OWASP_Top_10-2017%28ja%29.pdf)** (2017/12/26)
+### **[OWASP Top 10 2017 日本語版PDF ダウンロード](/www-pdf-archive/OWASP_Top_10-2017%28ja%29.pdf)** (2017/12/26)
 
 ## OWASP Kansai
 
@@ -28,7 +28,7 @@ Nightと称した勉強会を開催しています。みなさんのご参加を
 Chapter
 Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ[我々にご連絡](https://www.owasp.org/index.php/Kansai#tab=Social_media__2F__E3_82_BD_E3_83_BC_E3_82_B7_E3_83_A3_E3_83_AB_E3_83_A1_E3_83_87_E3_82_A3_E3_82_A2)ください。
 (スピーカーの方は[Speaker
-Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wikilink"))
+Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 ))
 
 ローカルチャプターのスポンサーはこちら![Btn_donate_SM.gif](Btn_donate_SM.gif
 "Btn_donate_SM.gif") からお申込みになれます。
@@ -324,7 +324,7 @@ OWASP Kansaiローカルチャプターミーティングでの発表資料は�
 OWASP
 の活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらは皆様のメンバーシップとドネーションによって賄われています。
 
-[**メンバーシップ詳細(英語)**をご確認ください](Membership "wikilink")。
+[**メンバーシップ詳細(英語)**をご確認ください](Membership )。
 
   - OWASP Foundation
     会員（メンバーシップ）は、個人向けの設定があります。個人会員へのサインアップは[こちら](https://myowasp.force.com/memberappregion)から。年間20ドル、あるいはライフタイム会員（更新なし）で500ドルです。
@@ -334,7 +334,7 @@ OWASP
   - 国内限定の、OWASP Japan チャプタースポンサーシップは、2000ドルのご寄付です。詳細は、[Local Chapter
     Supporter](https://www.owasp.org/index.php/Local_Chapter_Supporter)をご覧ください。
 
-###### [**Local Chapter Supporter**](Membership "wikilink")
+###### [**Local Chapter Supporter**](Membership )
 
 ## About OWASP Kansai Team
 
@@ -354,6 +354,6 @@ OWASP
 OWASP Kansaiでは共にコミュニティ活動を支えてくれるメンバーを随時募集しています。 我こそはという方は、[OWASP
 Handbook](https://www.owasp.org/index.php/Category:Chapter_Handbook/ja)を一読の上、ボードメンバーに相談ください。
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Japan](Category:Japan "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Asia](Category:Asia )
+[Category:Japan](Category:Japan )
