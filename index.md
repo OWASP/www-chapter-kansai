@@ -26,7 +26,7 @@ OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会
     * 関西（あるいは他のローカルチャプター）の人と人をつなぐハブ  
 
 ## The Open Web Application Security Project とは
-OWASP／オワスプとは、「The Open Web Application Security Project」の略語であり、関西弁に翻訳するならば、 __「みんなの力で ウェブで できたもんの セキュリティを なんとかする活動」__ と表現できます。  
+OWASP／オワスプとは、「The Open Web Application Security Project」の略語であり、関西弁に翻訳するならば、 __「O:みんなの力で W:ウェブで A:できたもんの S:セキュリティを P:なんとかする活動」__ と表現できます。  
 Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。  
 
 ## 次回イベント  
