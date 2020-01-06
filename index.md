@@ -12,43 +12,62 @@ auto-migrated: 1
 ---
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<img src="assets/images/OwaspKansai_Blue.jpg" alt="OWASP Kansai">
 
-{front matter for this file}
+# OWASP Kansai  
+Welcome to the Kansai chapter homepage. [Click Here](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter) to join the local chapter mailing list.  
+OWASP Kansai ローカルチャプターのホームページへようこそ。 OWASP Kansaiのメーリングリストは [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter)。  
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## About OWASP / OWASPとは  
+OWASP Kansaiチャプターは日本で2番目に発足したローカルチャプターです。  
+OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会を開催しています。みなさんのご参加をお待ちしています。  
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+OWASP Kansaiローカルチャプターミーティングでの発表資料は、下記サイトにて公開しています。
+* [Speaker Deck](https://speakerdeck.com/owaspkansai)
+* [Slide Share](https://www.slideshare.net/OwaspKansai)
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+### The Open Web Application Security Project  
+OWASP／オワスプとは、「The Open Web Application Security Project」の略語であり、関西弁に翻訳するならば、 __「みんなの力で ウェブで できたもんの セキュリティを なんとかする活動」__ と表現できます。  
+Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。  
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## 会員制度 / チャプタースポンサーシップ  
+OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+* Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
+* スピーカーの方は[Speaker Agreement:日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+* 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
 
-```
-{info.md}
+## Local Chapter Supporter  
+<table cellpadding="15" cellspacing="0">
+    <tr>
+        <td><a href="https://www.panasonic.com/jp/top.html" target="_blank" rel="noopener"><img src="assets/images/Panasonic_logoCorrectSize-Shape.jpg" alt="パナソニック株式会社"></a></td>
+    </tr>
+</table>
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
+<!--
+### Single Meeting Supporter  
+過去のイベントにおいて会場をご提供頂いた企業様、学校様です。
 -->
+
+### 各種会員制度、寄付について  
+* [Individual Membership（個人会員）](https://www.owasp.org/index.php/Individual_Member): 50ドル（年間）、500ドル（ライフタイム）  
+    * owasp.org メールアドレス付与  
+    * 会員限定のニュース配信  
+    * OWASPの組織の投票への参加  
+    * ローカルミーティングへの優先入場を提供することもあります。  
+    * 個人会員へのサインアップは[こちら](https://myowasp.force.com/memberappregion)から。  
+    
+* [Corporate Membership(企業・団体)](https://www.owasp.org/index.php/Local_Chapter_Supporter) : 5000ドル～（年間）、金額に応じてDiamond、Platinum、Gold、Silverのランク  
+    * OWASPグローバルイベントにおける特典  
+    * [Membershipページ](https://www.owasp.org/index.php/Corporate_Supporter_Bios)へのブランドロゴ掲載。
+    * Kansaiサイトへの掲載。(KansaiをAllocationいただいた場合)  
+    * 会費の一部を、支援したいプロジェクトやコミュニティに対してAllocationを行うことができます。（ぜひ、OWASP Kansai Chapterをご指定ください。ブランドロゴの掲載、リンクの設置をいたします。）  
+
+* [Local Chapter Supporter(企業・団体)](https://www.owasp.org/index.php/Local_Chapter_Supporter) : 500ドル～（年間）、金額に応じてPlatinum、Gold、Silverのランク  
+    * ローカルチャプターを限定した支援。  
+    * Kansaiサイトへのブランドロゴの掲載、リンクの設置。
+
+* [その他の支援](https://www.owasp.org/index.php/Membership#tab=Other_ways_to_Support_OWASP)  
+    * [OWASPへの寄付](https://www2.owasp.org/donate)
+    * 有償の貢献ふぁけでなく、あなたがプロジェクト参画やイベント参加や発表も、OWASPへの貢献です。
