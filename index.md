@@ -18,25 +18,29 @@ auto-migrated: 1
 Welcome to the Kansai chapter homepage. [Click Here](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter) to join the local chapter mailing list.  
 OWASP Kansai ローカルチャプターのホームページへようこそ。 OWASP Kansaiのメーリングリストは [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter)。  
 
-## About OWASP / OWASPとは  
+## About OWASP Kansai / オワスプカンサイ とは  
 OWASP Kansaiチャプターは日本で2番目に発足したローカルチャプターです。  
-OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会を開催しています。みなさんのご参加をお待ちしています。  
-
-OWASP Kansaiローカルチャプターミーティングでの発表資料は、下記サイトにて公開しています。
-* [Speaker Deck](https://speakerdeck.com/owaspkansai)
-* [Slide Share](https://www.slideshare.net/OwaspKansai)
+OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会を開催しています。  
+* OWASP Kansai が目指すもの
+    * スキル、役職、業種、国籍、性別、年齢に関係なく、だれでも参加できる間口の広いコミュニティ  
+    * カジュアルなスタイルで楽しくセキュリティについて情報交換や悩みを共有できる場  
+    * 発表者、参加者が双方向に学びあえる場  
+    * 関西（あるいは他のローカルチャプター）の人と人をつなぐハブ  
 
 ### The Open Web Application Security Project  
 OWASP／オワスプとは、「The Open Web Application Security Project」の略語であり、関西弁に翻訳するならば、 __「みんなの力で ウェブで できたもんの セキュリティを なんとかする活動」__ と表現できます。  
 Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。  
 
+## 次回イベント  
+*【学生優先・ハンズオン】体系的に学ぶモダン Web セキュリティ＠京都  
+    * [参加登録はこちら](https://owasp-kansai.doorkeeper.jp/events/102007)  
+    * 日時：2020-03-07（土）10:00-18:00  
+    * 場所：サポーターズ　京都オフィス   
+    * ※本イベントは学生優先です  
+    
+
 ## 会員制度 / チャプタースポンサーシップ  
 OWASPの各Projectやチャプターの活動はリーダーを含めすべて無報酬のボランティアにより成り立っています。これらはメンバーシップ会費やチャプターサポーターによるスポンサーなどのコントリビューションによって賄われています。
-
-* Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
-* スピーカーの方は[Speaker Agreement:日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
-
-* 個人、コーポレート、アカデミックメンバーとしてご登録をご希望の方はJoin Nowをクリックして下さい。
 
 ## Local Chapter Supporter  
 <table cellpadding="15" cellspacing="0">
@@ -58,7 +62,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
     * ローカルミーティングへの優先入場を提供することもあります。  
     * 個人会員へのサインアップは[こちら](https://myowasp.force.com/memberappregion)から。  
     
-* [Corporate Membership(企業・団体)](https://www.owasp.org/index.php/Local_Chapter_Supporter) : 5000ドル～（年間）、金額に応じてDiamond、Platinum、Gold、Silverのランク  
+* [Corporate Membership(企業・団体)](https://www.owasp.org/index.php/Corporate_Membership) : 5000ドル～（年間）、金額に応じてDiamond、Platinum、Gold、Silverのランク  
     * OWASPグローバルイベントにおける特典  
     * [Membershipページ](https://www.owasp.org/index.php/Corporate_Supporter_Bios)へのブランドロゴ掲載。
     * Kansaiサイトへの掲載。(KansaiをAllocationいただいた場合)  
@@ -70,4 +74,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 
 * [その他の支援](https://www.owasp.org/index.php/Membership#tab=Other_ways_to_Support_OWASP)  
     * [OWASPへの寄付](https://www2.owasp.org/donate)
-    * 有償の貢献ふぁけでなく、あなたがプロジェクト参画やイベント参加や発表も、OWASPへの貢献です。
+    * 有償の貢献だけでなく、あなたがプロジェクト参画やイベント参加や発表も、OWASPへの貢献です。
+　　* Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
+　　* スピーカーの方は[Speaker Agreement:日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
