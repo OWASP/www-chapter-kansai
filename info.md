@@ -1,6 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
-
 ### ショートカット
 * [OWASPトップ10 2017日本語版](https://github.com/OWASP/Top10/raw/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
 
@@ -17,4 +14,3 @@
 * [SECKANSAI](https://www.seckansai.com/)、
 * [Security Event in Japan](http://its-workshop.techtalk.jp/)、
 * [関西サイバーセキュリティ・ネットワーク](http://www.kansai.meti.go.jp/2-7it/k-cybersecurity-network/20181017k-cybersecurity-network-top.html)
--->
