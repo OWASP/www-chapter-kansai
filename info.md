@@ -5,11 +5,11 @@
 ### Kansai Chapter Links
 * [Meeting: DoorKeeper](https://owasp-kansai.doorkeeper.jp/)
 * SNS:
- - [Facebook](https://www.facebook.com/groups/owaspkansai/)
- - [Twitter](https://twitter.com/OWASP_Kansai)（[#owaspkansai](https://twitter.com/hashtag/owaspkansai)でのツイート歓迎）
+** [Facebook](https://www.facebook.com/groups/owaspkansai/)
+** [Twitter](https://twitter.com/OWASP_Kansai)（[#owaspkansai](https://twitter.com/hashtag/owaspkansai)でのツイート歓迎）
 * Slides:
- - [SpeakerDeck](https://speakerdeck.com/owaspkansai)  
- - [SlideShare](https://www.slideshare.net/OwaspKansai)  
+** [SpeakerDeck](https://speakerdeck.com/owaspkansai)  
+** [SlideShare](https://www.slideshare.net/OwaspKansai)  
 
 
 ### その他、関西コミュニティのイベント情報  
