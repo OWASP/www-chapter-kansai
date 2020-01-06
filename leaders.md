@@ -1,4 +1,4 @@
-### Leaders  
+### Chapter Leaders  
 * [Tomohiko Morita](mailto:tomohiko.morita@owasp.org)  
 * Tsuyoshi Miki  
 
