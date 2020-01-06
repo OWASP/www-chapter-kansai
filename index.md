@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kansai
-tags: example-tag
+tags: kansai
 level: 0
 
 region: Asia/Pacific
@@ -27,7 +27,7 @@ OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会
     * 発表者、参加者が双方向に学びあえる場  
     * 関西（あるいは他のローカルチャプター）の人と人をつなぐハブ  
 
-### The Open Web Application Security Project  
+## The Open Web Application Security Project とは
 OWASP／オワスプとは、「The Open Web Application Security Project」の略語であり、関西弁に翻訳するならば、 __「みんなの力で ウェブで できたもんの セキュリティを なんとかする活動」__ と表現できます。  
 Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。  
 
@@ -54,7 +54,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 過去のイベントにおいて会場をご提供頂いた企業様、学校様です。
 -->
 
-### 各種会員制度、寄付について  
+## 各種会員制度、寄付について  
 * [Individual Membership（個人会員）](https://www.owasp.org/index.php/Individual_Member): 50ドル（年間）、500ドル（ライフタイム）  
     * owasp.org メールアドレス付与  
     * 会員限定のニュース配信  
