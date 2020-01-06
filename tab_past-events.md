@@ -9,7 +9,11 @@ tags: kansai
 
 
 # 2020
-
+##【学生優先・ハンズオン】体系的に学ぶモダン Web セキュリティ＠京都  
+    * [参加登録はこちら](https://owasp-kansai.doorkeeper.jp/events/102007)  
+    * 日時：2020-03-07（土）10:00-18:00  
+    * 場所：サポーターズ　京都オフィス   
+    * ※本イベントは学生優先です  
 
 # 2019
 ## 【競技】MINI Hardening Project#3.5@OWASP Kansai  
