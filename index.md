@@ -53,7 +53,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 過去のイベントにおいて会場をご提供頂いた企業様、学校様です。
 -->
 
-## 各種会員制度、寄付について  
+## 各種会員制度、寄付、支援について  
 * [Individual Membership（個人会員）](https://www.owasp.org/index.php/Individual_Member): 50ドル（年間）、500ドル（ライフタイム）  
     * owasp.org メールアドレス付与  
     * 会員限定のニュース配信  
@@ -72,7 +72,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
     * Kansaiサイトへのブランドロゴの掲載、リンクの設置。
 
 * [その他の支援](https://www.owasp.org/index.php/Membership#tab=Other_ways_to_Support_OWASP)  
-    * [OWASPへの寄付](https://www2.owasp.org/donate)
-    * 有償の貢献だけでなく、あなたがプロジェクト参画やイベント参加や発表も、OWASPへの貢献です。
-　　* Chapter Meetingの会場をお貸しいただける方、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。
-　　* スピーカーの方は[Speaker Agreement:日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
+    * [OWASPへの寄付](https://www2.owasp.org/donate)  
+    * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎します。  
+　　* Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。  
+　　* スピーカー希望の方は[Speaker Agreement:日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
