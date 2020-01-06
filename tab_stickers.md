@@ -8,4 +8,9 @@ tags: kansai
 ---
 
 
-# hoge
+# OWASP Kansai Stickers
+
+<img src="assets/images/OwaspKansai_Blue.jpg" alt="OWASP Kansai">
+<img src="assets/images/OwaspKansai_Blue.jpg" alt="OWASP Kansai">
+<img src="assets/images/OwaspKansai_Blue.jpg" alt="OWASP Kansai">
+<img src="assets/images/OwaspKansai_Blue.jpg" alt="OWASP Kansai">
