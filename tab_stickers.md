@@ -1,6 +1,6 @@
 ---
 title: stickers
-displaytext: Sstickers
+displaytext: Stickers
 layout:  null
 tab: true
 order: 1
