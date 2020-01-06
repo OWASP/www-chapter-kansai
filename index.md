@@ -74,5 +74,5 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 * [その他の支援](https://www.owasp.org/index.php/Membership#tab=Other_ways_to_Support_OWASP)  
     * [OWASPへの寄付](https://www2.owasp.org/donate)  
     * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎します。  
-　　* Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。  
-　　* スピーカー希望の方は[Speaker Agreement:日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
+    * Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。  
+    * スピーカー希望の方は[Speaker Agreement:日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
