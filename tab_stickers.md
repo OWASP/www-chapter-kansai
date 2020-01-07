@@ -18,6 +18,6 @@ tags: kansai
 
 <img src="assets/images/OwaspKansai_MINI_Yellow.jpg" alt="MINI Hardenning">
 
-<object data="assets/images/owasp_kansai_flyer_2019.09.pdf" type="application/pdf" width="100%" height="100%">
+<object data="assets/images/owasp_kansai_flyer_2019.09.pdf" type="application/pdf" width="100%" height="300%">
    <p><b>表示されない時の表示</b>: <a href="assets/images/owasp_kansai_flyer_2019.09.pdf">PDF をダウンロード</a>.</p>
 </object>
