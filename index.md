@@ -5,7 +5,7 @@ title: OWASP Kansai
 tags: kansai
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
 ---
 
