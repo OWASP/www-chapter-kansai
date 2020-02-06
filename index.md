@@ -16,10 +16,10 @@ region: Asia
 <!-- Welcome to the Kansai chapter homepage. [Click Here](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter) to join the local chapter mailing list.  -->
 OWASP Kansai ローカルチャプターのホームページへようこそ。 OWASP Kansaiのメーリングリストは [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter)。  
 
-## About OWASP Kansai / オワスプカンサイ とは  
+## オワスプカンサイ とは  
 OWASP Kansaiチャプターは日本で2番目に発足したローカルチャプターです。  
 OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会を開催しています。  
-* OWASP Kansai のミッションステートメント
+* ミッションステートメント
     ```
     つなぐ・まなぶ・そだてる
     ～ ひと と ひと、地域と地域をつなぐハブになる ～
@@ -27,10 +27,10 @@ OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会
     * スキル、役職、業種、国籍、性別、年齢に関係なく、だれでも参加できる間口の広いコミュニティ  
     * カジュアルなスタイルで楽しくセキュリティについて情報交換や悩みを共有できる場  
     * 発表者、参加者が双方向に学びあえる場  
-    * 関西（あるいは他のローカルチャプター）の人と人をつなぐハブ  
+    * 関西（あるいは他のローカルチャプター）の人と人をつなぐ  
     * [OWASP: Code of Conduct](https://www2.owasp.org/www-policy/operational/code-of-conduct.html)
 
-## The Open Web Application Security Project とは
+## オワスプ とは
 OWASP／オワスプとは、「The Open Web Application Security Project」の略語であり、関西弁に翻訳するならば、 __「O:みんなの力で W:ウェブで A:できたもんの S:セキュリティを P:なんとかする活動」__ と表現できます。  
 Webアプリケーションなどのソフトウェアのセキュリティと、セキュアなソフトウェア開発のための技術・プロセスについての情報提供/普及啓発を目的としたオープンコミュニティです。  
 
