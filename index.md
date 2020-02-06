@@ -19,7 +19,11 @@ OWASP Kansai ローカルチャプターのホームページへようこそ。 
 ## About OWASP Kansai / オワスプカンサイ とは  
 OWASP Kansaiチャプターは日本で2番目に発足したローカルチャプターです。  
 OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会を開催しています。  
-* OWASP Kansai が目指すもの
+* OWASP Kansai のミッションステートメント
+    ```
+    つなぐ・まなぶ・そだてる
+    ～ ひと と ひと、地域と地域をつなぐハブになる ～
+    ```
     * スキル、役職、業種、国籍、性別、年齢に関係なく、だれでも参加できる間口の広いコミュニティ  
     * カジュアルなスタイルで楽しくセキュリティについて情報交換や悩みを共有できる場  
     * 発表者、参加者が双方向に学びあえる場  
@@ -50,33 +54,41 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 </table>
 
 <!--
-### Single Meeting Supporter  
-過去のイベントにおいて会場をご提供頂いた企業様、学校様です。
+## Single Meeting Supporter  
+過去のイベントにおいて会場をご提供頂いた企業や、団体です。
 -->
 
-## 各種会員制度、寄付、支援について  
+## 各種会員制度、寄付、支援の種類について  
 さまざまな[会員の種類](https://www2.owasp.org/www-policy/operational/membership.html)、[支援の種類](https://www2.owasp.org/www-policy/testdoc/chapter-rules-of-procedure.html#chapter-sponsors--local-and-global)があります。
 * [Individual Membership（個人会員）](https://www2.owasp.org/membership): 50ドル（年間）、500ドル（ライフタイム）  
-    * 会費の40%は、個人が支援したいプロジェクトやコミュニティの支援に充てられます。  
+    * 会費の40%は、個人が指定したプロジェクトやコミュニティの支援に充てられます。  
     * owasp.org メールアドレス付与  
     * 会員限定のニュース配信  
     * OWASPの組織の投票への参加  
     * ローカルミーティングへの優先入場を提供することもあります。  
-    * 個人会員へのサインアップは[こちら](https://myowasp.force.com/memberappregion)から。
+    * 個人会員へのサインアップは[こちら](https://myowasp.force.com/memberappregion)から。  
     * (世界の一部の地域では、20ドルの割引会員資格があります)
     
 * [Corporate Membership(企業・団体)](https://www2.owasp.org/supporters) : 5000ドル～（年間）、金額に応じてDiamond、Platinum、Gold、Silverのランク  
-    * 会費の40%は、指定されたプロジェクトやコミュニティの支援に充てられます。（ぜひ、OWASP Kansai Chapterをご指定ください。ブランドロゴの掲載、リンクの設置をいたします。）  
+    * 会費の40%は、指定されたプロジェクトやコミュニティの支援に充てられます。（ぜひ、OWASP Kansai Chapterをご指定ください。）  
     * OWASPグローバルイベントにおける特典  
-    * [Corporate Members & Sponsors ページ](https://www2.owasp.org/supporters)へのブランドロゴ掲載。  
-    * Kansaiサイトへの掲載。(KansaiをAllocationいただいた場合)  
+    * [Corporate Members & Sponsors ページ](https://www2.owasp.org/supporters)へのブランドロゴの掲載、リンクの設置  
+    * Kansaiサイトへのブランドロゴの掲載、リンクの設置。(KansaiをAllocationいただいた場合)  
 
 * [Local Chapter Supporter(企業・団体)](https://www2.owasp.org/www-policy/testdoc/chapter-rules-of-procedure.html#chapter-sponsors--local-and-global) : 500ドル～（年間）、金額に応じてPlatinum、Gold、Silverのランク  
     * ローカルチャプターを限定した支援。会費の90%は、ローカルチャプターの支援に充てられます。  
-    * Kansaiサイトへのブランドロゴの掲載、リンクの設置。
+    * Kansaiサイトへのブランドロゴの掲載、リンクの設置。  
     
 * [その他の支援](https://www2.owasp.org/www-policy/testdoc/chapter-rules-of-procedure.html#chapter-sponsors--local-and-global)  
     * [OWASPへの寄付](https://www2.owasp.org/donate)  
-    * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎します。  
+    * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎しています。  
     * Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。  
     * スピーカー希望の方は[Speaker Agreement](https://www2.owasp.org/www-policy/legal/speaker-agreement.html) [日本語訳](https://www.owasp.org/index.php/Speaker_Agreement:%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3)をご一読下さい。 
+ 
+## OWASP Kansaiオリジナル会員特典について  
+OWASP Foudation公式からの特典は前項に挙げた通りですが、さらにOWASP Kansaiではオリジナル特典をご用意しております。  
+ぜひ支援先としてOWASP Kansaiを指定してください。不明な点があれば、フォローさせていただきますのでお気軽にボードメンバーにご相談ください。  
+    * オリジナルウェア（初回のみ）  
+    * OWASP Kansaiイベントへの優先入場枠  
+        * 個人会員:1枠/イベント  
+        * 企業会員:金額に応じて1-3枠/イベント  
