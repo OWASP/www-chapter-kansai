@@ -10,7 +10,7 @@ tags: kansai
 こちらのタブではOWASPのさまざまなプロジェクトを関西弁に翻訳しながら紹介します。  
 
 # OWASP API Security Top 10(ja-kansai)
-    * [原文(en)はこちら](https://owasp.org/www-project-api-security/)  
+[原文(en)はこちら](https://owasp.org/www-project-api-security/)  
 
 ## API1:2019 –潰れたオブジェクトレベルの認可  
 APIはオブジェクト識別子を処理するエンドポイントを開けっ広げにするクセがあってな、広範囲な攻撃対象レベルのアクセス制御の問題を引き起こしよんねん。  
