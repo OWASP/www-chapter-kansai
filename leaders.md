@@ -1,6 +1,6 @@
 ### Chapter Leaders  
 * [Tomohiko Morita](mailto:tomohiko.morita@owasp.org)  
-* Tsuyoshi Miki  
+ 
 
 ### Chapter Board Members  
 * [Yosuke Hasegawa](yosuke.hasegawa@owasp.org)  
