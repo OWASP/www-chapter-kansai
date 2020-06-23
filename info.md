@@ -2,6 +2,7 @@
 * [OWASPトップ10 2017日本語版](https://github.com/OWASP/Top10/raw/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
 * [OWASP Japan](https://owasp.org/www-chapter-japan/)  
 * [OWASP Nagoya](https://owasp.org/www-chapter-nagoya/)  
+* [OWASP全体のポリシーや手順](https://owasp.org/www-policy/)  
 
 
 ### Kansai Chapter Links
