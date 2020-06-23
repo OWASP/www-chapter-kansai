@@ -14,4 +14,4 @@
 * Daisuke Miyashita  
 
 OWASP Kansaiでは共にコミュニティ活動を支えてくれるメンバーを随時募集しています。  
-我こそはという方は、[OWASP Chapter Handbook](https://www.owasp.org/index.php/Category:Chapter_Handbook/ja)を一読の上、ボードメンバーに相談ください。
+我こそはという方は、[Chapter Handbook](https://owasp.org/www-policy/operational/chapter-handbook-existing)を一読の上、ボードメンバーに相談ください。
