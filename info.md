@@ -1,7 +1,7 @@
 ### ショートカット
 * [OWASPトップ10 2017日本語版](https://github.com/OWASP/Top10/raw/master/2017/ja/OWASP%20Top%2010-2017(ja).pdf)
-* [OWASP Japan](https://www2.owasp.org/www-chapter-japan/)  
-* [OWASP Nagoya](https://www2.owasp.org/www-chapter-nagoya/)  
+* [OWASP Japan](https://www.owasp.org/www-chapter-japan/)  
+* [OWASP Nagoya](https://www.owasp.org/www-chapter-nagoya/)  
 
 
 ### Kansai Chapter Links
