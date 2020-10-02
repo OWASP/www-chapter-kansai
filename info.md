@@ -6,6 +6,7 @@
 
 
 ### Kansai Chapter Links
+* [Meetup](https://www.meetup.com/owasp-kansai-meetup-group/)
 * [Meeting: DoorKeeper](https://owasp-kansai.doorkeeper.jp/)  
 * [SNS: Facebook](https://www.facebook.com/groups/owaspkansai/)  
 * [SNS: Twitter](https://twitter.com/OWASP_Kansai)（[#owaspkansai](https://twitter.com/hashtag/owaspkansai)でのツイート歓迎）  
