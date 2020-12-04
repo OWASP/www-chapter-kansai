@@ -14,7 +14,4 @@
 * [Slides: SlideShare](https://www.slideshare.net/OwaspKansai)  
 
 
-### その他、関西コミュニティのイベント情報  
-* [SECKANSAI](https://www.seckansai.com/)  
-* [Security Event in Japan](http://its-workshop.techtalk.jp/)  
-* [関西サイバーセキュリティ・ネットワーク](http://www.kansai.meti.go.jp/2-7it/k-cybersecurity-network/20181017k-cybersecurity-network-top.html)  
+
