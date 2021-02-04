@@ -62,28 +62,19 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 -->
 
 ## 各種会員制度、寄付、支援の種類について  
-さまざまな[会員の種類](https://owasp.org/www-policy/operational/membership)、[支援の種類](https://owasp.org/www-policy/testdoc/chapter-rules-of-procedure.html#chapter-sponsors--local-and-global)があります。
+さまざまな[会員の種類](https://owasp.org/supporters/)、[支援の種類](https://owasp.org/www-policy/testdoc/chapter-rules-of-procedure.html#chapter-sponsors--local-and-global)があります。
 * [Individual Membership（個人会員）](https://owasp.org/membership/): 50ドル（年間）、500ドル（ライフタイム）  
-    * 会費の40%は、個人が指定したプロジェクトやコミュニティの支援に充てられます。  
-    * owasp.org メールアドレス付与  
-    * 会員限定のニュース配信  
-    * OWASPの組織の投票への参加  
-    * ローカルミーティングへの優先入場を提供することもあります。  
+    * 会員メリットは、上記Linkを確認してください
     * 個人会員へのサインアップは[こちら](https://myowasp.force.com/memberappregion)から。  
     * (世界の一部の地域では、20ドルの割引会員資格があります)
     
-* [Corporate Membership(企業・団体)](https://owasp.org/supporters) : 5000ドル～（年間）、金額に応じてDiamond、Platinum、Gold、Silverのランク  
-    * 会費の40%は、指定されたプロジェクトやコミュニティの支援に充てられます。（ぜひ、OWASP Kansai Chapterをご指定ください。）  
-    * OWASPグローバルイベントにおける特典  
+* [Corporate Membership(企業・団体)](https://owasp.org/supporters/) : 5000ドル～（年間）、金額に応じてDiamond、Platinum、Gold、Silverのランク  
     * [Corporate Members & Sponsors ページ](https://owasp.org/supporters)へのブランドロゴの掲載、リンクの設置  
     * Kansaiサイトへのブランドロゴの掲載、リンクの設置。(KansaiをAllocationいただいた場合)  
-
-* [Local Chapter Supporter(企業・団体)](https://owasp.org/www-policy/testdoc/chapter-rules-of-procedure.html#chapter-sponsors--local-and-global) : 500ドル～（年間）、金額に応じてPlatinum、Gold、Silverのランク  
-    * ローカルチャプターを限定した支援。会費の90%は、ローカルチャプターの支援に充てられます。  
-    * Kansaiサイトへのブランドロゴの掲載、リンクの設置。  
+    * その他の会員メリットは、上記Linkを確認してください
     
 * [その他の支援](https://owasp.org/www-policy/testdoc/chapter-rules-of-procedure.html#sponsors--affiliates)  
-    * [OWASPへの寄付](https://owasp.org/donate)  
+    * [OWASPへの寄付](https://owasp.org/donate/)  
     * 有償の貢献だけでなく、あなたのプロジェクト参画やイベント参加もOWASPへの貢献になり、歓迎しています。  
     * Chapter Meetingの会場をお貸しいただける企業様、スピーカーを務めて頂ける方、その他ご協力頂ける方はぜひ私たちまでご連絡ください。  
     * スピーカー希望の方は[Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement.html)をご一読下さい。 
