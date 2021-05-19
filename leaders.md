@@ -3,10 +3,10 @@
  
 
 ### Chapter Board Members  
-* [Yosuke Hasegawa](mailto:yosuke.hasegawa@owasp.org)  
+* Yosuke Hasegawa 
 * Tsuyoshi Miki  
 * Gen-ichi Morishita  
-* [Taichi Saito](mailto:taichi.saito@owasp.org)  
+* Taichi Saito 
 * Jun Matsumoto  
 * Shinichi Takeshige  
 * Taichi Itou  
