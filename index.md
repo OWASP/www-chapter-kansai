@@ -67,7 +67,7 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
     * 個人会員へのサインアップは[こちら](https://myowasp.force.com/memberappregion)から。  
     * (世界の一部の地域では、20ドルの割引会員資格があります)
     
-* [Corporate Membership(企業・団体)](https://owasp.org/supporters/) : 5000ドル～（年間）、金額に応じてDiamond、Platinum、Gold、Silverのランク  
+* [Corporate Membership(企業・団体)](https://owasp.org/supporters/) :  
     * [Corporate Members & Sponsors ページ](https://owasp.org/supporters)へのブランドロゴの掲載、リンクの設置  
     * Kansaiサイトへのブランドロゴの掲載、リンクの設置。(KansaiをAllocationいただいた場合)  
     * その他の会員メリットは、上記Linkを確認してください
