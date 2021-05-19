@@ -13,5 +13,18 @@
 * [Slides: SpeakerDeck](https://speakerdeck.com/owaspkansai)  
 * [Slides: SlideShare](https://www.slideshare.net/OwaspKansai)  
 
+### Chapter Board Members  
+* [Yosuke Hasegawa](mailto:yosuke.hasegawa@owasp.org)  
+* Tsuyoshi Miki  
+* Gen-ichi Morishita  
+* [Taichi Saito](mailto:taichi.saito@owasp.org)  
+* Jun Matsumoto  
+* Shinichi Takeshige  
+* Taichi Itou  
+* Masafumi Masutani  
+* Tomohiro Adachi  
+* Daisuke Miyashita  
 
+OWASP Kansaiでは共にコミュニティ活動を支えてくれるメンバーを随時募集しています。  
+我こそはという方は、[Chapter Handbook]()を一読の上、ボードメンバーに相談ください。
 
