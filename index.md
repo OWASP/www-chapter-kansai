@@ -46,13 +46,6 @@ OWASPの各Projectやチャプターの活動はリーダーを含めすべて�
 
 ## Local Chapter Supporter  
 募集中  
-<!--
-<table cellpadding="15" cellspacing="0">
-     <tr>
-        <td><a href="https://owasp.org/" target="_blank" rel="noopener"><img src="assets/images/test.jpg" alt="＊＊＊会社"></a></td>
-    </tr>
-</table>
--->
 
 <!--
 ## Single Meeting Supporter  
