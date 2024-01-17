@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Kansai
 tags: kansai
+country: Japan
 level: 0
 
 region: Asia
