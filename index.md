@@ -38,7 +38,7 @@ Webアプリケーションなどのソフトウェアのセキュリティと�
 ## 次回イベント  
 * __【ハンズオン】京都産業大学情報理工学部ランチタイムトーク x OWASP Kansai__  
     * 今回のイベントは、京産大ランチタイムトーク拡大版とOWASP Kansaiスクールキャラバンのコラボイベントです。
-    * [参加登録はこちら]([https://owasp-kansai.doorkeeper.jp/events/169151](https://owasp-kansai.doorkeeper.jp/events/179740))  
+    * [参加登録はこちら]([https://owasp-kansai.doorkeeper.jp/events/179740])  
     * 日時：2024年12月28日(土) 13:00 スタート 17:00 終了予定
 
 
