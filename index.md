@@ -11,7 +11,7 @@ region: Asia
 ---
 
 
-<img src="assets/images/OwaspKansai_Blue.jpg" alt="OWASP Kansai">
+<img src="assets/images/OwaspKansai_Blue_new.png" alt="OWASP Kansai">
 
 # OWASP Kansai  
 <!-- Welcome to the Kansai chapter homepage. [Click Here](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter) to join the local chapter mailing list.  -->
