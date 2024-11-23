@@ -15,7 +15,9 @@ region: Asia
 
 # OWASP Kansai  
 <!-- Welcome to the Kansai chapter homepage. [Click Here](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter) to join the local chapter mailing list.  -->
-OWASP Kansai ローカルチャプターのホームページへようこそ。 OWASP Kansaiのメーリングリストは [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter)。  
+OWASP Kansai ローカルチャプターのホームページへようこそ。 
+OWASP Kansai は、大阪、神戸、京都などを中心に関西リージョンで活動しています（OWASP Osaka, OWASP Kobe, OWASP Kyoto etc）
+OWASP Kansaiのメーリングリストは [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter)。  
 
 ## オワスプカンサイ とは  
 OWASP Kansaiチャプターは日本で2番目に発足したローカルチャプターです。  
