@@ -10,6 +10,8 @@ tags: kansai
 
 # OWASP Kansai Stickers
 
+<img src="assets/images/OwaspKansai_Blue_new.png" alt="OWASP Kansai">
+
 <img src="assets/images/OwaspKansai_Blue.jpg" alt="OWASP Kansai">
 
 <img src="assets/images/OwaspKansai_Red.jpg" alt="OWASP Kansai">
