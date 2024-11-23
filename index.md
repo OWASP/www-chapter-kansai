@@ -14,13 +14,13 @@ region: Asia
 <img src="assets/images/OwaspKansai_Blue_new.png" alt="OWASP Kansai">
 
 # OWASP Kansai  
-<!-- Welcome to the Kansai chapter homepage. [Click Here](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter) to join the local chapter mailing list.  -->
+<!-- Welcome to the Kansai chapter homepage. The Kansai Chapter is a regional chapter that includes OWASP Osaka, OWASP Kobe, and OWASP Kyoto. [Click Here](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter) to join the local chapter mailing list.  -->
 OWASP Kansai ローカルチャプターのホームページへようこそ。  
-OWASP Kansai は、大阪、神戸、京都などを中心に関西リージョンで活動しています（OWASP Osaka, OWASP Kobe, OWASP Kyoto etc）  
 OWASP Kansaiのメーリングリストは [こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/kansai-chapter)。  
 
 ## オワスプカンサイ とは  
 OWASP Kansaiチャプターは日本で2番目に発足したローカルチャプターです。  
+OWASP Kansai は、大阪、神戸、京都などを中心に関西リージョンで活動しています。和歌山、滋賀への遠征も行いますのでご相談ください。  
 OWASP Kansaiでは定期的にChapter Meeting / OWASP Nightと称した勉強会を開催しています。  
 * ミッションステートメント
     ```
