@@ -1,6 +1,6 @@
 ### Chapter Leaders  
 * [Tomohiko Morita](mailto:tomohiko.morita@owasp.org)  
-* [Jun Matsumoto](mailto:jun.matsumoto@owasp.org)
+* [Kouji Matsuda](mailto:kouji.matsuda@owasp.org)
  
 
 
