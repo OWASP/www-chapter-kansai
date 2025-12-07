@@ -1,0 +1,28 @@
+community:
+  - name: chapter-kansai
+    platform: slack
+    url: https://owasp.slack.com/archives/C052L0J3Z
+    description: OWASP Kansai
+leaders:
+  - name: Tomohiko Morita
+    email: tomohiko.morita@owasp.org
+    github: tom-morita
+  - name: Jun Matsumoto
+    email: jun.matsumoto@owasp.org
+    github: jun-m2mt
+location:
+  country: Japan
+  country_code: JP
+  region: Asia
+  latitude: 34.43420455
+  longitude: 135.2225230169576
+name: OWASP Kansai
+repositories:
+  - name: www-chapter-kansai
+    url: https://github.com/OWASP/www-chapter-kansai
+    description: OWASP Foundation Web Repository
+tags:
+  - kansai
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-kansai
