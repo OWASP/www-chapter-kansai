@@ -11,7 +11,8 @@
 * [SNS: Facebook](https://www.facebook.com/groups/owaspkansai/)  
 * [SNS: Twitter](https://twitter.com/OWASP_Kansai)（[#owaspkansai](https://twitter.com/hashtag/owaspkansai)でのツイート歓迎）  
 * [Slides: SpeakerDeck](https://speakerdeck.com/owaspkansai)  
-* [Slides: SlideShare](https://www.slideshare.net/OwaspKansai)  
+* [Slides: SlideShare](https://www.slideshare.net/OwaspKansai)
+* [このサイトのGithubリポジトリ](https://github.com/OWASP/www-chapter-kansai)
 
 ### Chapter Board Members  
 * Yosuke Hasegawa  
