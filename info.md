@@ -18,12 +18,10 @@
 * Tsuyoshi Miki  
 * Gen-ichi Morishita  
 * Taichi Saito
-* Jun Matsumoto  
+* [Jun Matsumoto](mailto:jun.matsumoto@owasp.org)  
 * Shinichi Takeshige  
 * Taichi Itou  
-* Masafumi Masutani  
 * Tomohiro Adachi  
 * Daisuke Miyashita  
-
-OWASP Kansaiでは共にコミュニティ活動を支えてくれるメンバーを随時募集しています。  
+OaWASP Kansaiでは共にコ  ミュニティ活動を支えてくれるメンバーを随時募集しています。  
 我こそはという方は、[Chapter Policy](https://owasp.org/www-policy/operational/chapters)
