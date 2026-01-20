@@ -20,9 +20,14 @@ tags: kansai
 
 <img src="assets/images/OwaspKansai_MINI_Yellow.jpg" alt="MINI Hardenning">
 
-<object data="assets/images/owasp_kansai_flyer_2019.09.pdf" type="application/pdf" width="100%" height="100%">
-   <p><b>OWASP Kansaiフライヤー</b>: <a href="assets/images/owasp_kansai_flyer_2019.09.pdf">PDF をダウンロード</a>.</p>
-</object>
+
+# OWASP Kansai Poster/Flyer
+<a href="assets/pdf/OWASP_Kansai_Poster_20241203">
+    OWASP Kansaiポスター(PDF)
+</a><br>
+<a href="assets/pdf/owasp_kansai_flyer_2019.09.pdf">
+    OWASP Kansaiフライヤー(PDF)
+</a><br>
 
 
 # Adobe Illustrator data
