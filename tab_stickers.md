@@ -26,7 +26,7 @@ tags: kansai
 
 
 # Adobe Illustrator data
-<a href="assets/aidata/NewOwaspKansai_lightBlue_88x42_240904.ai">
+<a href="assets/aidata/NewOwaspKansai_Blue_88x42_240904.ai">
     新デザイン(青)
 </a><br>
 <a href="assets/aidata/NewOwaspKansai_lightBlue_88x42_240904.ai">
