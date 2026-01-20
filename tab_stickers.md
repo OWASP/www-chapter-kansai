@@ -28,13 +28,13 @@ tags: kansai
 # Adobe Illustrator data
 <a href="assets/images/NewOwaspKansai_lightBlue_88x42_240904.ai">
     新デザイン(青)
-</a>
+</a><br>
 <a href="assets/images/NewOwaspKansai_lightBlue_88x42_240904.ai">
     新デザイン(水色)
-</a>
+</a><br>
 <a href="assets/images/oldOwaspKansai_Blue.ai">
     旧デザイン(青)
-</a>
+</a><br>
 <a href="assets/images/oldOwaspKansai_Green_88x42_nuritashi3.ai">
     旧デザイン(緑)
-</a>
+</a><br>
