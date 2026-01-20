@@ -22,7 +22,7 @@ tags: kansai
 
 
 # OWASP Kansai Poster/Flyer
-<a href="assets/pdf/OWASP_Kansai_Poster_20241203">
+<a href="assets/pdf/OWASP_Kansai_Poster_20241203.pdf">
     OWASP Kansaiポスター(PDF)
 </a><br>
 <a href="assets/pdf/owasp_kansai_flyer_2019.09.pdf">
