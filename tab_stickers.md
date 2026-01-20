@@ -46,3 +46,9 @@ tags: kansai
 <a href="assets/aidata/oldOwaspKansai_Green_88x42_nuritashi3.ai">
     旧デザイン(緑)
 </a><br>
+<a href="assets/aidata/A4clearfile_owasp_full_0202_outlined.ai">
+    クリアファイル(top10-2017)
+</a><br>
+<a href="assets/aidata/A4clearfile_owasp_iot_full_20190519.ai">
+    クリアファイル(IoTtop10-2018)
+</a><br>
